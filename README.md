@@ -4,7 +4,7 @@ Wireless temperature sensor to be used in your next IoT project. :)
 ## Features:
 - Wireless connectivity (ESP8266 E-12)
 - MCP9808 temperature sensor
-- integrated lipo charger
+- integrated lipo charger (supports 1S battery)
 - USB connector for convenient recharge
 - voltage level monitoring (via divider on ADC)
 - I2C and other pins accessible via pads
