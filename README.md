@@ -1,4 +1,4 @@
-# esp8266-temp-sensor
+# ESP8266 temperature sensor for IoT
 Wireless temperature sensor to be used in your next IoT project. :) 
 
 ## Features:
