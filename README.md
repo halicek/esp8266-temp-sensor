@@ -8,7 +8,7 @@ Wireless temperature sensor to be used in your next IoT project. :) Quite low co
 - I2C and other free pins accessible via pads
 - approx 47 mm x 19 mm size (including 12E)
 
-![ESP8266 Temp Sensor v 1.3](https://raw.githubusercontent.com/halicek/esp8266-temp-sensor/master/iot-pcb-front.png)
+![ESP8266 Temp Sensor v3](https://raw.githubusercontent.com/halicek/esp8266-temp-sensor/master/iot-pcb-front.png)
 
 ## Used IOs:
 - ESP8266 12E uController
@@ -26,8 +26,10 @@ There could be some libraries missing in the project. Let me know, I will fix th
 
 **As of today (July 2019) this is working prototype, third generation of board design with three working prototypes in my flat. Anyway, build at your own risk! And do not forget that 18650 cells can burn too!**
 
+![prototype v3](https://raw.githubusercontent.com/halicek/esp8266-temp-sensor/master/prototype.jpg)
+
 ## What I need to finish:
-- 3D printed case - i have some preliminary holder for 18650 cell.
+- 3D printed case - i have some preliminary holder for 18650 cell. - https://github.com/halicek/esp8266-temp-sensor/blob/master/Temp-sensor-case-v1.stl
 
 ## License:
 This is open hardware, use, make, modify. Just let me know any improvement. I will welcome any fix or upgrade. Thank you!
