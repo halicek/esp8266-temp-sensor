@@ -1,5 +1,5 @@
 # ESP8266 temperature sensor for IoT
-Wireless temperature sensor to be used in your next IoT project. :) 
+Wireless temperature sensor to be used in your next IoT project. :) Quite low consumption, months with single 18650 cell.
 
 ## Features:
 - Wireless connectivity (ESP8266 12E)
@@ -24,10 +24,10 @@ There could be some libraries missing in the project. Let me know, I will fix th
 
 ## Status
 
-**As of today (July 2019) this is working prototype, third generation of board design with three working prototypes in my flat. Anyway, build at your own risk! And do not forget that 18650 batteries can burn too!**
+**As of today (July 2019) this is working prototype, third generation of board design with three working prototypes in my flat. Anyway, build at your own risk! And do not forget that 18650 cells can burn too!**
 
 ## What I need to finish:
-- 3D printed case - i have some preliminary holder for 18650 battery.
+- 3D printed case - i have some preliminary holder for 18650 cell.
 
 ## License:
 This is open hardware, use, make, modify. Just let me know any improvement. I will welcome any fix or upgrade. Thank you!
