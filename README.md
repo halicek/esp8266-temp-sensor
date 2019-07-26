@@ -8,7 +8,7 @@ Wireless temperature sensor to be used in your next IoT project. :)
 - I2C and other free pins accessible via pads
 - approx 47 mm x 19 mm size (including 12E)
 
-![ESP8266 Temp Sensor v 0.9](https://github.com/halicek/esp8266-temp-sensor/blob/master/images/3d_model_front.png)
+![ESP8266 Temp Sensor v 1.3](https://raw.githubusercontent.com/halicek/esp8266-temp-sensor/master/iot-pcb-front.png)
 
 ## Used IOs:
 - ESP8266 12E uController
